@@ -11,5 +11,6 @@ and open the template in the editor.
 body {
     background-color: aquamarine;
     font-weight: bold;
-    color: green
+    color: green;
+    font-size: 18px
 }
