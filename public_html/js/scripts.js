@@ -4,4 +4,6 @@
  * and open the template in the editor.
  */
 
-
+function saludo() {
+    alert("Hola alumnos");
+}
